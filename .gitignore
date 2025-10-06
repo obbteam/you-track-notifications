@@ -5,7 +5,7 @@ target/
 .kotlin
 
 ### Tokens ###
-src/main/resources/config.properties
+config.properties
 
 ### IntelliJ IDEA ###
 .idea/modules.xml

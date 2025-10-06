@@ -1,0 +1,12 @@
+# config.properties.template
+
+# Configuration for the YouTrack Bot
+# Copy this file to config.properties and fill in your actual values.
+
+youtrack.url=https://your-instance.youtrack.cloud
+youtrack.token=YOUR_YOUTRACK_TOKEN_GOES_HERE
+youtrack.project.id=YOUR_PROJECT_ID
+
+telegram.bot.username=
+telegram.bot.token=YOUR_TELEGRAM_BOT_TOKEN_GOES_HERE
+telegram.chat.id=YOUR_TELEGRAM_CHAT_ID_GOES_HERE
