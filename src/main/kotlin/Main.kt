@@ -24,7 +24,6 @@ fun main() = runBlocking {
         install(ContentNegotiation) {
             json()
         }
-
     }
 
     val youTrackAdapter: ForProcessingNotifications =

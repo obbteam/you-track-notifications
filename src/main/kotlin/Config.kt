@@ -1,5 +1,4 @@
 import java.util.Properties
-import javax.print.attribute.standard.RequestingUserName
 
 data class Config(
     val youtrackUrl: String,
