@@ -1,9 +1,9 @@
 package org.example.core
 
 import convertEpochToLocal
-import core.ports.driven.ForCreatingIssues.ForCreatingIssues
-import core.ports.driving.ForReceivingCommands.ForReceivingCommands
-import core.ports.driving.ForReceivingCommands.SummaryAndId
+import org.example.core.ports.driven.ForCreatingIssues.ForCreatingIssues
+import org.example.core.ports.driving.ForReceivingCommands.ForReceivingCommands
+import org.example.core.ports.driving.ForReceivingCommands.SummaryAndId
 import org.example.core.ports.driven.ForOutputtingIssues.ForOutputtingIssues
 import org.example.core.ports.driving.ForReceivingNotifications.ForProcessingNotifications
 import org.example.core.ports.driving.ForReceivingNotifications.Issue

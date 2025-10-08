@@ -1,4 +1,4 @@
-package core.ports.driving.ForReceivingCommands
+package org.example.core.ports.driving.ForReceivingCommands
 
 data class SummaryAndId (
     val summary: String,

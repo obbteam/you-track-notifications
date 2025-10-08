@@ -1,8 +1,8 @@
 package org.example
 
 import TelegramNotificationAdapter
-import adapters.driven.ForCreatingIssues.YouTrackIssueCreator
-import core.ports.driven.ForCreatingIssues.ForCreatingIssues
+import org.example.adapters.driven.ForCreatingIssues.YouTrackIssueCreator
+import org.example.core.ports.driven.ForCreatingIssues.ForCreatingIssues
 import io.ktor.client.*
 import io.ktor.client.engine.cio.*
 import kotlinx.coroutines.*

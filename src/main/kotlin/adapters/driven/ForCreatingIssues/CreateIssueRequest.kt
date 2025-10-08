@@ -1,4 +1,4 @@
-package adapters.driven.ForCreatingIssues
+package org.example.adapters.driven.ForCreatingIssues
 
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.JsonIgnoreUnknownKeys

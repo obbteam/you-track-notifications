@@ -1,7 +1,7 @@
-package adapters.driven.ForCreatingIssues
+package org.example.adapters.driven.ForCreatingIssues
 
-import core.ports.driven.ForCreatingIssues.ForCreatingIssues
-import core.ports.driven.ForCreatingIssues.SummaryAndId
+import org.example.core.ports.driven.ForCreatingIssues.ForCreatingIssues
+import org.example.core.ports.driven.ForCreatingIssues.SummaryAndId
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.request.bearerAuth

@@ -1,6 +1,6 @@
 package org.example.adapters.driving.ForRecevingCommands
 
-import core.ports.driving.ForReceivingCommands.ForReceivingCommands
+import org.example.core.ports.driving.ForReceivingCommands.ForReceivingCommands
 import org.telegram.telegrambots.bots.TelegramLongPollingBot
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage
 import org.telegram.telegrambots.meta.api.objects.Update
