@@ -72,4 +72,8 @@ Now, open `src/main/resources/config.properties` and fill in the following value
     mvn exec:java
     ```
 
+<img width="257" height="53" alt="image" src="https://github.com/user-attachments/assets/c8551c83-fe0b-448b-8c80-c8e2e9aea134" />
+Or simply run Main.kt using IntelliJ Run toool
+
+
 You should see "Bot started successfully!" in your console.
