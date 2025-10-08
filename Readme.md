@@ -6,9 +6,13 @@ This file contains the full source code for the YouTrack Telegram Bot, structure
 
 # YouTrack Telegram Bot 🤖
 
-This project is a Kotlin-based bot that integrates your [YouTrack](https://www.jetbrains.com/youtrack/) instance with [Telegram](https://telegram.org/). It serves as a bridge, bringing important project updates directly into your messenger and allowing you to interact with YouTrack without leaving your chat.
+This project is a Kotlin-based bot that integrates your [YouTrack](https://www.jetbrains.com/youtrack/) instance with [Telegram](https://telegram.org/). It serves as a bridge, bringing important project updates directly into your Messenger and allowing you to interact with YouTrack without leaving your chat.
 
 The application is built using **Hexagonal Architecture (Ports and Adapters)** to ensure a clean separation between the core application logic and external services.
+
+<img width="490" height="321" alt="image" src="https://github.com/user-attachments/assets/2388fefe-d875-49cb-bfbd-eabf4c513a00" />
+
+For those new to architecture, check out this [link](https://alistair.cockburn.us/hexagonal-architecture)
 
 ## Features
 
@@ -17,6 +21,10 @@ The application is built using **Hexagonal Architecture (Ports and Adapters)** t
     -   Example: `/create Fix the login button bug`
 
 ---
+
+## Demo video
+
+Check out this link -> [Youtube](https://www.youtube.com/watch?v=gP3KI5ysVE4)
 
 ## Getting Started
 
